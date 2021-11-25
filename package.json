@@ -1,0 +1,7 @@
+{
+  "name": "test-helpvino-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mateus Pedroso <mateuspsilva.dev@gmail.com>",
+  "license": "MIT"
+}
